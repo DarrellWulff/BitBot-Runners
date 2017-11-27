@@ -1,0 +1,108 @@
+Mono path[0] = 'C:/Users/Darrell/Desktop/Game Dev/RoboRunners/BitBot Runners Alpha build_Data/Managed'
+Mono path[1] = 'C:/Users/Darrell/Desktop/Game Dev/RoboRunners/BitBot Runners Alpha build_Data/Mono'
+Mono config path = 'C:/Users/Darrell/Desktop/Game Dev/RoboRunners/BitBot Runners Alpha build_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Darrell/Desktop/Game Dev/RoboRunners/BitBot Runners Alpha build_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55092
+Multi-casting "[IP] 192.168.1.244 [Port] 55092 [Flags] 3 [Guid] 2317420410 [EditorId] 706318874 [Version] 1048832 [Id] WindowsPlayer(DUNDUNDUN) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.1.244:55092]...
+PlayerConnection accepted from [192.168.1.244] handle:0x260
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56410
+PlayerConnection already initialized - listening to [192.168.1.244:55092]
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7640G + HD 7600M Dual Graphics (ID=0x9903)
+    Vendor:   ATI
+    VRAM:     2507 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.593 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Darrell\Desktop\Game Dev\RoboRunners\BitBot Runners Alpha build_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.422760 ms
+System memory in use before: 71.5 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 187.
+Total: 0.538335 ms (FindLiveObjects: 0.038876 ms CreateObjectMapping: 0.015658 ms MarkObjects: 0.458422 ms  DeleteObjects: 0.010799 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.343408 ms
+System memory in use before: 71.5 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 214.
+Total: 0.409826 ms (FindLiveObjects: 0.031317 ms CreateObjectMapping: 0.015658 ms MarkObjects: 0.350431 ms  DeleteObjects: 0.010799 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.186821 ms
+System memory in use before: 71.5 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 0.446003 ms (FindLiveObjects: 0.028077 ms CreateObjectMapping: 0.022678 ms MarkObjects: 0.379048 ms  DeleteObjects: 0.014038 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.992437 ms
+System memory in use before: 71.5 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 214.
+Total: 0.390387 ms (FindLiveObjects: 0.028617 ms CreateObjectMapping: 0.016198 ms MarkObjects: 0.333692 ms  DeleteObjects: 0.009179 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.058312 ms
+System memory in use before: 71.5 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 187.
+Total: 0.359070 ms (FindLiveObjects: 0.025377 ms CreateObjectMapping: 0.012958 ms MarkObjects: 0.307234 ms  DeleteObjects: 0.011339 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.120407 ms
+System memory in use before: 71.5 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 214.
+Total: 0.398487 ms (FindLiveObjects: 0.028617 ms CreateObjectMapping: 0.015118 ms MarkObjects: 0.341791 ms  DeleteObjects: 0.011339 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.029694 ms
+System memory in use before: 71.5 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 0.389307 ms (FindLiveObjects: 0.030777 ms CreateObjectMapping: 0.015658 ms MarkObjects: 0.330452 ms  DeleteObjects: 0.010799 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.196541 ms
+System memory in use before: 71.9 MB.
+System memory in use after: 72.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 874.
+Total: 0.640926 ms (FindLiveObjects: 0.069114 ms CreateObjectMapping: 0.052375 ms MarkObjects: 0.507558 ms  DeleteObjects: 0.009719 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.520511 ms
+System memory in use before: 71.9 MB.
+System memory in use after: 71.9 MB.
+
+Unloading 446 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 0.888766 ms (FindLiveObjects: 0.051295 ms CreateObjectMapping: 0.042116 ms MarkObjects: 0.519437 ms  DeleteObjects: 0.274297 ms)
+
+Waiting for finish

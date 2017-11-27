@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5cdc845a5029ae3429302bfa9bd46157
+timeCreated: 1470268604
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bitBeamObj: {fileID: 138984, guid: a01f341d9fc273d4ca6b8aed17bc53ef, type: 2}
+  - bitBeamObj2: {fileID: 129794, guid: 4aacbefd78e028f47877ac2ddc848d96, type: 2}
+  - bitBeamObj3: {fileID: 104256, guid: 3b31817df6a009943a93f56258d7e4d2, type: 2}
+  - groundCheck: {instanceID: 0}
+  - movingForward: {instanceID: 0}
+  - bitBeamBurst: {instanceID: 0}
+  - deathParticle: {instanceID: 0}
+  - theGameManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
