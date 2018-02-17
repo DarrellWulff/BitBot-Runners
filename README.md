@@ -1,6 +1,7 @@
 # BitBot Runners
 ## An Endless Runner Game
-### Made With C# in Unity
+### Made With C# In Unity
 #### by Darrell Wulff
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
+
+![Alt Text](https://github.com/DarrellWulff/BitBot-Runners/GitHubRD/BBICON)
