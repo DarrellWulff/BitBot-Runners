@@ -4,4 +4,4 @@
 #### by Darrell Wulff
 
 
-![BitBot Runners Icon V1](https://github.com/DarrellWulff/BitBot-Runners/GitHubRD/BBICON.png)
+![BitBot Runners Icon V1](https://github.com/DarrellWulff/BitBot-Runners/blob/master/GitHubRD/BBICON.png)
